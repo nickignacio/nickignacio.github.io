@@ -204,7 +204,8 @@
 
 
 .right-panel {
-  width: 75%;
+  width: 80%;
+  padding: 10%;
   text-align: center;
   display: flex;
   flex-direction: column;
