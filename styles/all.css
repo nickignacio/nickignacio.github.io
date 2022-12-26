@@ -218,12 +218,14 @@
 .grid-row {
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 25pt;
 }
 
 .grid-column {
   flex: 75%;
   max-width: 75%;
-  padding: 12.5px;
+  
+  
 }
 
 .grid-column img {
