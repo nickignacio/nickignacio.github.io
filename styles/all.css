@@ -241,14 +241,14 @@
   display: block;
   width: 480px;
   height: 480px;
-  padding-left: 20pt;
+  padding-left: 90pt;
 }
 
 .img-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 20pt;
+  left: 90pt;
   right: 0;
   height: 480px;
   width: 480px;
