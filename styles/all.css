@@ -272,6 +272,30 @@
   text-align: center;
 }
 
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 
 @media only screen and (min-width: 920px) {
   .grid-column {
@@ -280,6 +304,7 @@
   }
 
   .img-overlay { 
+    display: block;
     opacity: 0;
     background-color: rgba(0,0,0,0.5);
   }
