@@ -297,7 +297,7 @@ a:active {
 }
 
 
-@media only screen and (max-width: 920px) {
+@media only screen and (max-width: 482px) {
   .grid-column {
     flex: 50%;
     max-width: 50%;
