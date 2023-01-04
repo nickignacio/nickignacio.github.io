@@ -285,7 +285,7 @@ a:visited {
 }
 
 a:hover {
-  color: white;
+  color: orange;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -301,6 +301,7 @@ a:active {
   .grid-column {
     flex: 50%;
     max-width: 50%;
+    padding-left: 25%;
   }
 
   .img-overlay { 
