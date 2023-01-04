@@ -239,19 +239,19 @@
 
 .img-image {
   display: block;
-  width: 480px;
-  height: 480px;
-  padding-left: 90pt;
+  width: 75%;
+  height: 100%;
+  padding-left: 12.5%;
 }
 
 .img-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 90pt;
+  left: 012.5%;
   right: 0;
-  height: 480px;
-  width: 480px;
+  width: 75%;
+  height: 100%;
   transition: 0.5s ease;
   background-color: rgba(0,0,0,0.125);
 }
@@ -262,7 +262,7 @@
 
 .img-text {
   color: white;
-  font-size: 28px;
+  font-size: 24px;
   font-weight:bold;
   position: absolute;
   top:  50%;
