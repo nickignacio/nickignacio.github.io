@@ -81,7 +81,7 @@
   nav {
     margin: 0 auto;
     padding-bottom: 50px;
-    width: 50%;
+    width: 100%;
   }
   nav ul {
     list-style: none;
@@ -98,7 +98,7 @@
     padding-bottom: 15px;
     text-decoration: none;
     color: #aaa;
-    font-weight: 800;
+    font-weight: 700;
     text-transform: uppercase;
   }
   nav ul li a,
