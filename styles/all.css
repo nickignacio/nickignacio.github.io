@@ -218,13 +218,12 @@
 .grid-row {
   display: flex;
   flex-wrap: wrap;
-  padding-bottom: 25pt;
 }
 
 .grid-column {
-  flex: 50%;
-  max-width: 50%;
-  
+  flex: 75%;
+  max-width: 75%;
+  padding: 25pt;
   
 }
 
@@ -239,18 +238,18 @@
 
 .img-image {
   display: block;
-  width: 75%;
+  width: 100%;
   height: 100%;
-  padding-left: 12.5%;
+  
 }
 
 .img-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 012.5%;
+  left: 0%;
   right: 0;
-  width: 75%;
+  width: 100%;
   height: 100%;
   transition: 0.5s ease;
   background-color: rgba(0,0,0,0.125);
@@ -270,6 +269,21 @@
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
+}
+
+
+@media screen and (min-width: 920px){
+  .grid-column {
+    flex: 50;
+    max-width: 50%;
+   
+ 
+  }
+
+  .img-overlay { 
+    opacity: 0;
+    background-color: rgba(0,0,0,0.5);
+  }
 }
 
 a:link {
@@ -295,17 +309,3 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-
-
-@media only screen and (min-width: 920px){
-  .grid-column {
-    flex: 50%;
-    max-width: 50%;
-  }
-
-  .img-overlay { 
-    opacity: 0;
-    background-color: rgba(0,0,0,0.5);
-  }
-}
-
