@@ -271,6 +271,11 @@
   text-align: center;
 }
 
+.serv ul {
+    text-align: left;
+    padding: 5%;
+    padding-top: 0%;
+}
 
 @media screen and (min-width: 920px){
   .grid-column {
