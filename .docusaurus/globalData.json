@@ -1,0 +1,160 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "research/2d-materials-for-neuromorphic-computing/cc-pcm",
+          "docs": [
+            {
+              "id": "about/about",
+              "path": "/docs/about/",
+              "sidebar": "about"
+            },
+            {
+              "id": "research/2d-materials-for-neuromorphic-computing/cc-pcm",
+              "path": "/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/2d-materials-for-neuromorphic-computing/defect-eng",
+              "path": "/docs/research/2d-materials-for-neuromorphic-computing/defect-eng",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/2d-materials-for-neuromorphic-computing/tem-rram",
+              "path": "/docs/research/2d-materials-for-neuromorphic-computing/tem-rram",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/In-situ-STM/co-reconstruction",
+              "path": "/docs/research/In-situ-STM/co-reconstruction",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/In-situ-STM/layer-by-layer",
+              "path": "/docs/research/In-situ-STM/layer-by-layer",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/In-situ-STM/memristor-effect",
+              "path": "/docs/research/In-situ-STM/memristor-effect",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/In-situ-STM/phase-change",
+              "path": "/docs/research/In-situ-STM/phase-change",
+              "sidebar": "research"
+            },
+            {
+              "id": "research/Materials Pedagogy",
+              "path": "/docs/research/Materials Pedagogy",
+              "sidebar": "research"
+            },
+            {
+              "id": "teaching/background",
+              "path": "/docs/teaching/background",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/characterization/assessment_instruments",
+              "path": "/docs/teaching/characterization/assessment_instruments",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/characterization/learning_activities",
+              "path": "/docs/teaching/characterization/learning_activities",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/characterization/syllabus",
+              "path": "/docs/teaching/characterization/syllabus",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/diversity-statement",
+              "path": "/docs/teaching/diversity-statement",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/documentation-of-teaching",
+              "path": "/docs/teaching/documentation-of-teaching",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/introMSE/assessment_instrument",
+              "path": "/docs/teaching/introMSE/assessment_instrument",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/introMSE/learning_activities",
+              "path": "/docs/teaching/introMSE/learning_activities",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/introMSE/module_overview",
+              "path": "/docs/teaching/introMSE/module_overview",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/preamble",
+              "path": "/docs/teaching/preamble",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "teaching/teaching-philosophy",
+              "path": "/docs/teaching/teaching-philosophy",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "/category/2d-materials-for-neuromorphic-computing",
+              "path": "/docs/category/2d-materials-for-neuromorphic-computing",
+              "sidebar": "research"
+            },
+            {
+              "id": "/category/in-situ-stm-measurements",
+              "path": "/docs/category/in-situ-stm-measurements",
+              "sidebar": "research"
+            },
+            {
+              "id": "/category/example-teaching-module-introduction-to-mse",
+              "path": "/docs/category/example-teaching-module-introduction-to-mse",
+              "sidebar": "teaching"
+            },
+            {
+              "id": "/category/example-teaching-module-advanced-characterization",
+              "path": "/docs/category/example-teaching-module-advanced-characterization",
+              "sidebar": "teaching"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "research": {
+              "link": {
+                "path": "/docs/category/2d-materials-for-neuromorphic-computing",
+                "label": "2D Materials for Neuromorphic Computing"
+              }
+            },
+            "teaching": {
+              "link": {
+                "path": "/docs/teaching/preamble",
+                "label": "teaching/preamble"
+              }
+            },
+            "about": {
+              "link": {
+                "path": "/docs/about/",
+                "label": "about/about"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
