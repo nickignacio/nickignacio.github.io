@@ -1,7 +1,0 @@
----
-sidebar_position: 3
----
-
-I am often thinking about materials science pedagogy as much as my work on 2D materials and devices as it is a career path I'd like to pursue post graduate school. Particualrly, I am excited about the improvements which can be made towards introductory courses in engineering and science programs as these have an important impact on the career paths of students and whether they pursue an education in a STEM field, particucularly students from underrepresented backgrounds in these fields.
-
-I am collaborating with Noah Stern from the Biodmedical Engineering (BME) Ph.D. program at UT Austin to expand their successful Peer-led Teaching Assisstant (TA) Support Program supported by the DEI Seed Grant program by the NSF-funded Center for Equity in Engineering. Within BME, they have recognized the impact that the institutional and peer support that TA's recieve on the sense of community and effectiveness as a TA as well as improved classroom climate and learning outcomes for undergraduate students. As we aim to pilot this program in other engineering departments, we have also conducted comparative studies of the resources available to TAs within different departments noting dissatisfaction generally across the school of engineering as well as specific issues related to the unqiue structure and culture of each department.
