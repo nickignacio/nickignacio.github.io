@@ -11,6 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "nickignacio",
   "projectName": "nickignacio.github.io",
+  "trailingSlash": true,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
