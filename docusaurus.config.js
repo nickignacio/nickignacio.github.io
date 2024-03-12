@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://nignacio.github.io',
+  url: 'https://nickignacio.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -45,7 +45,7 @@ const config = {
           sidebarPath: './sidebars.js',
           lastVersion: 'current',
           onlyIncludeVersions: ['current'],
-        },
+                },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.

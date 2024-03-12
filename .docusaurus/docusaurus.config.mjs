@@ -7,7 +7,7 @@ export default {
   "title": "Nick Ignacio",
   "tagline": "MSE PhD Candidate @ UT Austin | MatSci @ MIT 2021",
   "favicon": "img/favicon.ico",
-  "url": "https://nignacio.github.io",
+  "url": "https://nickignacio.github.io",
   "baseUrl": "/",
   "organizationName": "nickignacio",
   "projectName": "nickignacio.github.io",
