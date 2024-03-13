@@ -67,12 +67,6 @@ export default {
           "label": "Teaching"
         },
         {
-          "type": "docSidebar",
-          "sidebarId": "about",
-          "position": "left",
-          "label": "About"
-        },
-        {
           "to": "cv",
           "label": "CV",
           "position": "left"

@@ -84,12 +84,6 @@ const config = {
             position: 'left',
             label: 'Teaching',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'about',
-            position: 'left',
-            label: 'About',
-          },
           {to: 'cv', label: 'CV', position: 'left'},
           {to: 'contact', label: 'Contact Me!', position: 'right'},
           //{to: '/blog', label: 'Updates', position: 'left'},

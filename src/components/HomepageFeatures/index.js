@@ -21,8 +21,8 @@ function Feature({Svg, title}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.imgOverlay} role="img" />
-        <div className={styles.imgtext}>
+        <Svg className={styles.featuresSvg} role="img" />
+        <div className={styles.features}>
         <Heading as="h3">{title}</Heading>
       </div>
       </div>
