@@ -1,0 +1,26 @@
+{
+  "id": "research/In-situ-STM/memristor-effect",
+  "title": "Memristor effect in 2D materials",
+  "description": "STM is a powerful characterization techinque providing imaging at atomic resolution as well as equally precise probing tool. STM is limited to reasonably flat and conducting samples, but fortunately this makes it an ideal tool to study most 2D materials.",
+  "source": "@site/docs/research/In-situ-STM/memristor-effect.md",
+  "sourceDirName": "research/In-situ-STM",
+  "slug": "/research/In-situ-STM/memristor-effect",
+  "permalink": "/docs/research/In-situ-STM/memristor-effect",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "research",
+  "previous": {
+    "title": "In situ STM measurements",
+    "permalink": "/docs/category/in-situ-stm-measurements"
+  },
+  "next": {
+    "title": "Tip Induced Phase Changes",
+    "permalink": "/docs/research/In-situ-STM/phase-change"
+  }
+}

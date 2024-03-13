@@ -1,0 +1,26 @@
+{
+  "id": "teaching/characterization/learning_activities",
+  "title": "Learning Activities",
+  "description": "",
+  "source": "@site/docs/teaching/characterization/learning_activities.md",
+  "sourceDirName": "teaching/characterization",
+  "slug": "/teaching/characterization/learning_activities",
+  "permalink": "/docs/teaching/characterization/learning_activities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Syllabus",
+    "permalink": "/docs/teaching/characterization/syllabus"
+  },
+  "next": {
+    "title": "Assessment Instruments",
+    "permalink": "/docs/teaching/characterization/assessment_instruments"
+  }
+}

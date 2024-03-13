@@ -1,0 +1,26 @@
+{
+  "id": "teaching/introMSE/assessment_instrument",
+  "title": "Assessment Instruments",
+  "description": "An introductory materials science course will cover a wide range of topics and so will require classes from different fields as prerequisites. Additionally, introduction materials science courses are often in mechanical or chemical engineering departments so the backgrounds of the students will vary and may not meet the prerequisites. The pre course survey should be given before the course starts or at the beginning after the syllabus is covered. The pre-course survey will highlight any topics which concern the students or the instructor from the self-reported backgrounds of the student. The results from this assessment should inform the instructor where more attention should be paid in specific topics/lectures or if supplementary lectures are needed.",
+  "source": "@site/docs/teaching/introMSE/assessment_instrument.md",
+  "sourceDirName": "teaching/introMSE",
+  "slug": "/teaching/introMSE/assessment_instrument",
+  "permalink": "/docs/teaching/introMSE/assessment_instrument",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Learning Activities",
+    "permalink": "/docs/teaching/introMSE/learning_activities"
+  },
+  "next": {
+    "title": "Example Teaching Module: Advanced Characterization",
+    "permalink": "/docs/category/example-teaching-module-advanced-characterization"
+  }
+}

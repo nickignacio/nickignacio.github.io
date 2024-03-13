@@ -1,0 +1,26 @@
+{
+  "id": "teaching/characterization/syllabus",
+  "title": "Syllabus",
+  "description": "",
+  "source": "@site/docs/teaching/characterization/syllabus.md",
+  "sourceDirName": "teaching/characterization",
+  "slug": "/teaching/characterization/syllabus",
+  "permalink": "/docs/teaching/characterization/syllabus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Example Teaching Module: Advanced Characterization",
+    "permalink": "/docs/category/example-teaching-module-advanced-characterization"
+  },
+  "next": {
+    "title": "Learning Activities",
+    "permalink": "/docs/teaching/characterization/learning_activities"
+  }
+}

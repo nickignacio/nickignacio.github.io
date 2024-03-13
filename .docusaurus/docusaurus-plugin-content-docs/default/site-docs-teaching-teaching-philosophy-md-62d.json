@@ -1,0 +1,26 @@
+{
+  "id": "teaching/teaching-philosophy",
+  "title": "Statement of Teaching Philosophy",
+  "description": "Teaching introductory science and engineering courses and mentoring students at MIT and the University of Texas at Austin has illustrated the importance of developing critical thinking for students to not only succeed in their field but also to understand the societal implications of their work. I have learned that to successfully do so, instructors must be able to apply their material to real world examples that are broadly accessible, improve their ability to effectively communicate, and provide a supporting and curious environment.",
+  "source": "@site/docs/teaching/teaching-philosophy.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/teaching-philosophy",
+  "permalink": "/docs/teaching/teaching-philosophy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Teaching Identity",
+    "permalink": "/docs/teaching/background"
+  },
+  "next": {
+    "title": "Diversity Statement",
+    "permalink": "/docs/teaching/diversity-statement"
+  }
+}

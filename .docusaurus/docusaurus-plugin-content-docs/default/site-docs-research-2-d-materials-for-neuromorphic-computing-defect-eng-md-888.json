@@ -1,0 +1,26 @@
+{
+  "id": "research/2d-materials-for-neuromorphic-computing/defect-eng",
+  "title": "Defect Engineering for Reliability",
+  "description": "2D memristors have demonstrated attractive resistive switching characteristics recently but also suffer from the reliability issue, which limits practical applications. Previous efforts on 2D memristors have primarily focused on exploring new material systems, while damage from the metallization step remains a practical concern for the reliability of 2D memristors.",
+  "source": "@site/docs/research/2d-materials-for-neuromorphic-computing/defect-eng.md",
+  "sourceDirName": "research/2d-materials-for-neuromorphic-computing",
+  "slug": "/research/2d-materials-for-neuromorphic-computing/defect-eng",
+  "permalink": "/docs/research/2d-materials-for-neuromorphic-computing/defect-eng",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "research",
+  "previous": {
+    "title": "TEM Studies of Memristors",
+    "permalink": "/docs/research/2d-materials-for-neuromorphic-computing/tem-rram"
+  },
+  "next": {
+    "title": "In situ STM measurements",
+    "permalink": "/docs/category/in-situ-stm-measurements"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "research/In-situ-STM/layer-by-layer",
+  "title": "Layer-by-Layer Phase Changes",
+  "description": "PCM devices offer strong scalability and low power consumption for the future of memory storage and computing. However, multistate operation is a key requirement for high density storage or operation in neuromorphic systems. Previous studies on In2Se3 based memory devices report a simple, two state (HRS, LRS) electrical configurationwhich has also been observed in other 2D materials. On the other hand, prelimnary transport measurensts with a 4-probe STM system reveleaed a much more interesting, multi-state switching behavior which covers six orders of magnitude range in device resistance.",
+  "source": "@site/docs/research/In-situ-STM/layer-by-layer.md",
+  "sourceDirName": "research/In-situ-STM",
+  "slug": "/research/In-situ-STM/layer-by-layer",
+  "permalink": "/docs/research/In-situ-STM/layer-by-layer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "research",
+  "previous": {
+    "title": "Tip Induced Phase Changes",
+    "permalink": "/docs/research/In-situ-STM/phase-change"
+  },
+  "next": {
+    "title": "Co Reconstruction by H Exposure",
+    "permalink": "/docs/research/In-situ-STM/co-reconstruction"
+  }
+}

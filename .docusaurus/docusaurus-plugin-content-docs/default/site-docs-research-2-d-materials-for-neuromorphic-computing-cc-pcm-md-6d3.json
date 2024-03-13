@@ -1,0 +1,26 @@
+{
+  "id": "research/2d-materials-for-neuromorphic-computing/cc-pcm",
+  "title": "Crystalline-Crystalline Phase Change",
+  "description": "Phase change memories (PCM) based on reversible phase changes between two crystalline states with differing electrical resistivities are expected to have superior writing power and speed as compared to conventional PCM devices which utilize a higher configurational entropy change between a low-resistance crystalline phase and high-resistance amorphous phase. Recent studies have demonstrated crystalline-crystalline (β → γ) phase transformations of In2Se3 can be used in a PCM device so understanding the behavior in In2Se3 phase transformations is critical to developing low energy In2Se3 memory systems.",
+  "source": "@site/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm.md",
+  "sourceDirName": "research/2d-materials-for-neuromorphic-computing",
+  "slug": "/research/2d-materials-for-neuromorphic-computing/cc-pcm",
+  "permalink": "/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "research",
+  "previous": {
+    "title": "2D Materials for Neuromorphic Computing",
+    "permalink": "/docs/category/2d-materials-for-neuromorphic-computing"
+  },
+  "next": {
+    "title": "TEM Studies of Memristors",
+    "permalink": "/docs/research/2d-materials-for-neuromorphic-computing/tem-rram"
+  }
+}
