@@ -94,7 +94,7 @@ export default [
   },
   {
     path: '/contact/',
-    component: ComponentCreator('/contact/', '978'),
+    component: ComponentCreator('/contact/', '263'),
     exact: true
   },
   {

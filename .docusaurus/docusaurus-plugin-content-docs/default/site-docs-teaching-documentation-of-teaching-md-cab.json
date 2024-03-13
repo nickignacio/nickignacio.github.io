@@ -1,0 +1,22 @@
+{
+  "id": "teaching/documentation-of-teaching",
+  "title": "Documentation of Teaching",
+  "description": "Teaching Experience",
+  "source": "@site/docs/teaching/documentation-of-teaching.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/documentation-of-teaching",
+  "permalink": "/docs/teaching/documentation-of-teaching",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Assessment Instruments",
+    "permalink": "/docs/teaching/characterization/assessment_instruments"
+  }
+}

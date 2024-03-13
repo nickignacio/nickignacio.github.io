@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/contact",
+  "source": "@site/src/pages/contact.md",
+  "description": "card",
+  "frontMatter": {},
+  "unlisted": false
+}
