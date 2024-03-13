@@ -83,7 +83,8 @@ Conferences
 -----------
 ### Posters
 
-`2023` 
+`2023`  
+
 **Structural Phase Transitions for Multi-Level In2Se3 Based Phase Change Memory**, Materials Research Society (MRS) Fall 2023 Meeting, _Boston, MA, USA_.
 
 `2022`
@@ -108,19 +109,18 @@ Teaching Experiences
 
 *   Introduction to Astronomy _for non-STEM students_ (AST301) Prof. Paul Shapiro
 
-`2022` **Graduate Teaching Assistant**,_Department of Mechanical Engineering_, Austin, TX, USA
+`2022` **Graduate Teaching Assistant**, _Department of Mechanical Engineering_, Austin, TX, USA
 
 *   Materials Engineering (ME334) Dr. Jeremiah McCallister
 
-`2019` **Undergraduate Teaching Assistant/Recitation Leader**,_Department of Materials Science and Engineering_, Cambridge, MA, USA
+`2019` **Undergraduate Teaching Assistant/Recitation Leader**, _Department of Materials Science and Engineering_, Cambridge, MA, USA
 
 *  Introduction to Solid State Chemistry (3.091) Prof. Jeff Grossman
 ### Pedagogical Training
 
 `2022-2024` **Graduate Certificate in Engineering Education**, Cockrell School of Engineering, _UT Austin_, Austin, TX, USA.  
 
-`2023` **Teaching Preparation Certificate**, Center for Teachjing and Learning, _UT Austin_, Austin, TX, USA.  
-Co-taught with Emma Vargo, Amina Matt, Jovana Andrejevic, and Nina Andrejevic.
+`2023` **Teaching Preparation Certificate**, Center for Teaching and Learning, _UT Austin_, Austin, TX, USA.  
 
 `2023` **Inclusive Classrooms Leadership**, Division of Diversity and Community Engagement, _UT Austin_, Austin, TX, USA.  
 
