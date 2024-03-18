@@ -1,6 +1,6 @@
 {
   "id": "teaching/characterization/assessment_instruments",
-  "title": "Assessment Instruments",
+  "title": "Assessment Instruments: Written Challenge Problem",
   "description": "",
   "source": "@site/docs/teaching/characterization/assessment_instruments.md",
   "sourceDirName": "teaching/characterization",
@@ -16,8 +16,8 @@
   },
   "sidebar": "teaching",
   "previous": {
-    "title": "Learning Activities",
-    "permalink": "/docs/teaching/characterization/learning_activities"
+    "title": "Module Overview",
+    "permalink": "/docs/teaching/characterization/topic_overview"
   },
   "next": {
     "title": "Documentation of Teaching",

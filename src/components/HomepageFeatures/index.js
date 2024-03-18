@@ -21,8 +21,8 @@ function Feature({Svg, title}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featuresSvg} role="img" />
-        <div className={styles.features}>
+        <Svg className={styles.imgOverlay} role="img" />
+        <div className={styles.imgText}>
         <Heading as="h3">{title}</Heading>
       </div>
       </div>
@@ -33,7 +33,7 @@ function Feature({Svg, title}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div className={"container"}>
+      <div className={"imgcontainer"}>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

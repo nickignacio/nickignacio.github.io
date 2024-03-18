@@ -1,44 +1,69 @@
-.features {
+.gridrow {
   display: flex;
-  align-items: center;
-  padding: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.gridcolumn {
+  flex: 75%;
+  max-width: 75%;
+  padding: 25pt;
+  
+}
+
+.gridcolumn img {
+  vertical-align: middle;
+}
+
+.imgcontainer {
+  position: relative;
   width: 100%;
 }
 
-.featureSvg {
-  height: 300px;
-  width: 300px;
+.imgimage {
+  display: block;
+  width: 50px;
+  height: 50px;
+  
 }
 
-.imgContainer {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
+.imgoverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0%;
+  right: 0;
   width: 100%;
-}
-
-.imgOverlay {
-  height: 300px;
-  width: 300px;
+  height: 100%;
   transition: 0.5s ease;
   background-color: rgba(0,0,0,0.125);
 }
 
-.imgContainer:hover .imgOverlay {
-  opacity: .7;
+.imgcontainer:hover .imgoverlay {
+  opacity: 1;
 }
 
 .imgtext {
-  color: black;
+  color: white;
   font-size: 24px;
   font-weight:bold;
-  display: flex;
+  position: absolute;
+  top:  50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
 
 @media screen and (min-width: 920px){
-  .imgOverlay { 
-    opacity: 1;
+  .gridcolumn {
+    flex: 50;
+    max-width: 50%;
+   
+ 
+  }
+
+  .imgoverlay { 
+    opacity: 0;
     background-color: rgba(0,0,0,0.5);
     
   }

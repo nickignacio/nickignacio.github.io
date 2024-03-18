@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug/',
+    component: ComponentCreator('/__docusaurus/debug/', '63f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config/',
+    component: ComponentCreator('/__docusaurus/debug/config/', '406'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content/',
+    component: ComponentCreator('/__docusaurus/debug/content/', 'c86'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData/',
+    component: ComponentCreator('/__docusaurus/debug/globalData/', '4be'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata/',
+    component: ComponentCreator('/__docusaurus/debug/metadata/', '510'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry/',
+    component: ComponentCreator('/__docusaurus/debug/registry/', '1ee'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes/',
+    component: ComponentCreator('/__docusaurus/debug/routes/', '579'),
+    exact: true
+  },
+  {
     path: '/blog/',
     component: ComponentCreator('/blog/', 'b4c'),
     exact: true
@@ -74,15 +109,15 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '040'),
+    component: ComponentCreator('/docs/', '93d'),
     routes: [
       {
         path: '/docs/',
-        component: ComponentCreator('/docs/', '916'),
+        component: ComponentCreator('/docs/', 'b6e'),
         routes: [
           {
             path: '/docs/',
-            component: ComponentCreator('/docs/', '212'),
+            component: ComponentCreator('/docs/', '6a7'),
             routes: [
               {
                 path: '/docs/about/',
@@ -97,14 +132,14 @@ export default [
                 sidebar: "research"
               },
               {
-                path: '/docs/category/example-teaching-module-advanced-characterization/',
-                component: ComponentCreator('/docs/category/example-teaching-module-advanced-characterization/', 'b16'),
+                path: '/docs/category/example-teaching-module-introduction-to-mse/',
+                component: ComponentCreator('/docs/category/example-teaching-module-introduction-to-mse/', '478'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
-                path: '/docs/category/example-teaching-module-introduction-to-mse/',
-                component: ComponentCreator('/docs/category/example-teaching-module-introduction-to-mse/', '478'),
+                path: '/docs/category/example-teaching-module-practical-characterization-of-materials/',
+                component: ComponentCreator('/docs/category/example-teaching-module-practical-characterization-of-materials/', '3bc'),
                 exact: true,
                 sidebar: "teaching"
               },
@@ -175,14 +210,14 @@ export default [
                 sidebar: "teaching"
               },
               {
-                path: '/docs/teaching/characterization/learning_activities/',
-                component: ComponentCreator('/docs/teaching/characterization/learning_activities/', '9a6'),
+                path: '/docs/teaching/characterization/syllabus/',
+                component: ComponentCreator('/docs/teaching/characterization/syllabus/', '193'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
-                path: '/docs/teaching/characterization/syllabus/',
-                component: ComponentCreator('/docs/teaching/characterization/syllabus/', '193'),
+                path: '/docs/teaching/characterization/topic_overview/',
+                component: ComponentCreator('/docs/teaching/characterization/topic_overview/', '762'),
                 exact: true,
                 sidebar: "teaching"
               },

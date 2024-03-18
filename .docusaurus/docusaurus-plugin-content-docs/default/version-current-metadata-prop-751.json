@@ -145,33 +145,33 @@
       },
       {
         "type": "category",
-        "label": "Example Teaching Module: Advanced Characterization",
+        "label": "Example Teaching Module: Practical Characterization of Materials",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Syllabus",
+            "label": "Course Syllabus: Practical Characterization in Materials Science",
             "href": "/docs/teaching/characterization/syllabus",
             "docId": "teaching/characterization/syllabus",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Learning Activities",
-            "href": "/docs/teaching/characterization/learning_activities",
-            "docId": "teaching/characterization/learning_activities",
+            "label": "Module Overview",
+            "href": "/docs/teaching/characterization/topic_overview",
+            "docId": "teaching/characterization/topic_overview",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Assessment Instruments",
+            "label": "Assessment Instruments: Written Challenge Problem",
             "href": "/docs/teaching/characterization/assessment_instruments",
             "docId": "teaching/characterization/assessment_instruments",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/example-teaching-module-advanced-characterization"
+        "href": "/docs/category/example-teaching-module-practical-characterization-of-materials"
       },
       {
         "type": "link",
@@ -254,19 +254,19 @@
     },
     "teaching/characterization/assessment_instruments": {
       "id": "teaching/characterization/assessment_instruments",
-      "title": "Assessment Instruments",
-      "description": "",
-      "sidebar": "teaching"
-    },
-    "teaching/characterization/learning_activities": {
-      "id": "teaching/characterization/learning_activities",
-      "title": "Learning Activities",
+      "title": "Assessment Instruments: Written Challenge Problem",
       "description": "",
       "sidebar": "teaching"
     },
     "teaching/characterization/syllabus": {
       "id": "teaching/characterization/syllabus",
-      "title": "Syllabus",
+      "title": "Course Syllabus: Practical Characterization in Materials Science",
+      "description": "Course Instructor: Nick Ignacio",
+      "sidebar": "teaching"
+    },
+    "teaching/characterization/topic_overview": {
+      "id": "teaching/characterization/topic_overview",
+      "title": "Module Overview",
       "description": "",
       "sidebar": "teaching"
     },

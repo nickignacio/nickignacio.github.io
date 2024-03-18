@@ -1,7 +1,7 @@
 {
   "id": "teaching/characterization/syllabus",
-  "title": "Syllabus",
-  "description": "",
+  "title": "Course Syllabus: Practical Characterization in Materials Science",
+  "description": "Course Instructor: Nick Ignacio",
   "source": "@site/docs/teaching/characterization/syllabus.md",
   "sourceDirName": "teaching/characterization",
   "slug": "/teaching/characterization/syllabus",
@@ -16,11 +16,11 @@
   },
   "sidebar": "teaching",
   "previous": {
-    "title": "Example Teaching Module: Advanced Characterization",
-    "permalink": "/docs/category/example-teaching-module-advanced-characterization"
+    "title": "Example Teaching Module: Practical Characterization of Materials",
+    "permalink": "/docs/category/example-teaching-module-practical-characterization-of-materials"
   },
   "next": {
-    "title": "Learning Activities",
-    "permalink": "/docs/teaching/characterization/learning_activities"
+    "title": "Module Overview",
+    "permalink": "/docs/teaching/characterization/topic_overview"
   }
 }

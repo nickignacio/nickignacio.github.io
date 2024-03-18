@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-# Assessment Instruments
+# Assessment Instruments: Written Challenge Problem

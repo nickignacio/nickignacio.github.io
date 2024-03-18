@@ -66,13 +66,13 @@
               "sidebar": "teaching"
             },
             {
-              "id": "teaching/characterization/learning_activities",
-              "path": "/docs/teaching/characterization/learning_activities",
+              "id": "teaching/characterization/syllabus",
+              "path": "/docs/teaching/characterization/syllabus",
               "sidebar": "teaching"
             },
             {
-              "id": "teaching/characterization/syllabus",
-              "path": "/docs/teaching/characterization/syllabus",
+              "id": "teaching/characterization/topic_overview",
+              "path": "/docs/teaching/characterization/topic_overview",
               "sidebar": "teaching"
             },
             {
@@ -126,8 +126,8 @@
               "sidebar": "teaching"
             },
             {
-              "id": "/category/example-teaching-module-advanced-characterization",
-              "path": "/docs/category/example-teaching-module-advanced-characterization",
+              "id": "/category/example-teaching-module-practical-characterization-of-materials",
+              "path": "/docs/category/example-teaching-module-practical-characterization-of-materials",
               "sidebar": "teaching"
             }
           ],

@@ -33,7 +33,7 @@ export default function Home() {
       description="Homepage of Nick Ignacio">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+      <HomepageFeatures/>
       </main>
     </Layout>
   );
