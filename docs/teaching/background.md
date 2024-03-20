@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Teaching Identity
 
-My teaching philosophy is based on the Universal Design for Learning framework with a focus on encouraging scientific curiousity and preparation for the real world. 
+My teaching philosophy is based on the Universal Design for Learning framework with a focus on encouraging scientific curiousity and preparation for the real world. My teaching style is most directly influenced by Professors [Jeff Grossman](https://news.mit.edu/2016/solid-state-learning-jeffrey-grossman-1118) and [Krishna Kumar](https://www.jotse.org/index.php/jotse/article/view/2014/742) who both emphasize an inquisitive and involved approach to learning. See a more detailed description of my teaching philosophy in the next section
 
 ### Professional Goals ### 
 To teach science and engineering in a university setting. Upon graduation from my Ph.D., I am seeking a teaching focused position at the university level including assistant teaching professor or lecturer positions at R1 universities as well as tenure track positions at a SLAC. My degrees are in materials science and engineering which would be my preference to teach, but my teaching and industry background are multi-disciplinary so I would be happy to teach any positions in STEM including physics, chemistry, and general engineering particularly introductory classes catered towards first year students.

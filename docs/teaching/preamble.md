@@ -17,4 +17,4 @@ This teaching portfolio is intended to (1) provide my (Nick Ignacio's) philosoph
 * a documentation of teaching
 * summary presentation of my teaching portfolio with teaching example
 
-This portfolio is by no means exhaustive in regards to the content of the course, rather, provides an onverivew of my plans, philosophies and means for execution. I will also treat this as a living document updating teaching examples and my statements as I gain more experiences. All material is available upon request.
+This portfolio is by no means exhaustive in regards to the content of the courses, rather, provides an overivew of my plans, philosophies and means for execution. I will also treat this as a living document updating teaching examples and my statements as I gain more experiences. All material is available upon request.
