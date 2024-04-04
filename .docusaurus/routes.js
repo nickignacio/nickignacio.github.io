@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug/',
-    component: ComponentCreator('/__docusaurus/debug/', '63f'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config/',
-    component: ComponentCreator('/__docusaurus/debug/config/', '406'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content/',
-    component: ComponentCreator('/__docusaurus/debug/content/', 'c86'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData/',
-    component: ComponentCreator('/__docusaurus/debug/globalData/', '4be'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata/',
-    component: ComponentCreator('/__docusaurus/debug/metadata/', '510'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry/',
-    component: ComponentCreator('/__docusaurus/debug/registry/', '1ee'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes/',
-    component: ComponentCreator('/__docusaurus/debug/routes/', '579'),
-    exact: true
-  },
-  {
     path: '/blog/',
     component: ComponentCreator('/blog/', 'b4c'),
     exact: true
@@ -49,17 +14,17 @@ export default [
   },
   {
     path: '/blog/first-blog-post/',
-    component: ComponentCreator('/blog/first-blog-post/', '48d'),
+    component: ComponentCreator('/blog/first-blog-post/', 'bd7'),
     exact: true
   },
   {
     path: '/blog/long-blog-post/',
-    component: ComponentCreator('/blog/long-blog-post/', 'e0d'),
+    component: ComponentCreator('/blog/long-blog-post/', '359'),
     exact: true
   },
   {
     path: '/blog/mdx-blog-post/',
-    component: ComponentCreator('/blog/mdx-blog-post/', 'b5a'),
+    component: ComponentCreator('/blog/mdx-blog-post/', 'dba'),
     exact: true
   },
   {
@@ -89,39 +54,39 @@ export default [
   },
   {
     path: '/blog/welcome/',
-    component: ComponentCreator('/blog/welcome/', 'dd1'),
+    component: ComponentCreator('/blog/welcome/', '23d'),
     exact: true
   },
   {
     path: '/contact/',
-    component: ComponentCreator('/contact/', '263'),
+    component: ComponentCreator('/contact/', 'f52'),
     exact: true
   },
   {
     path: '/cv/',
-    component: ComponentCreator('/cv/', '3a1'),
+    component: ComponentCreator('/cv/', '5b2'),
     exact: true
   },
   {
     path: '/markdown-page/',
-    component: ComponentCreator('/markdown-page/', '210'),
+    component: ComponentCreator('/markdown-page/', 'ed8'),
     exact: true
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '93d'),
+    component: ComponentCreator('/docs/', 'ed6'),
     routes: [
       {
         path: '/docs/',
-        component: ComponentCreator('/docs/', 'b6e'),
+        component: ComponentCreator('/docs/', '096'),
         routes: [
           {
             path: '/docs/',
-            component: ComponentCreator('/docs/', '6a7'),
+            component: ComponentCreator('/docs/', 'c31'),
             routes: [
               {
                 path: '/docs/about/',
-                component: ComponentCreator('/docs/about/', '28e'),
+                component: ComponentCreator('/docs/about/', 'f1a'),
                 exact: true,
                 sidebar: "about"
               },
@@ -151,115 +116,115 @@ export default [
               },
               {
                 path: '/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm/',
-                component: ComponentCreator('/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm/', '3fa'),
+                component: ComponentCreator('/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm/', 'bcc'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/2d-materials-for-neuromorphic-computing/defect-eng/',
-                component: ComponentCreator('/docs/research/2d-materials-for-neuromorphic-computing/defect-eng/', 'b66'),
+                component: ComponentCreator('/docs/research/2d-materials-for-neuromorphic-computing/defect-eng/', 'cf0'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/2d-materials-for-neuromorphic-computing/tem-rram/',
-                component: ComponentCreator('/docs/research/2d-materials-for-neuromorphic-computing/tem-rram/', '9bc'),
+                component: ComponentCreator('/docs/research/2d-materials-for-neuromorphic-computing/tem-rram/', 'e78'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/In-situ-STM/co-reconstruction/',
-                component: ComponentCreator('/docs/research/In-situ-STM/co-reconstruction/', 'ddb'),
+                component: ComponentCreator('/docs/research/In-situ-STM/co-reconstruction/', '047'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/In-situ-STM/layer-by-layer/',
-                component: ComponentCreator('/docs/research/In-situ-STM/layer-by-layer/', '822'),
+                component: ComponentCreator('/docs/research/In-situ-STM/layer-by-layer/', 'c2b'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/In-situ-STM/memristor-effect/',
-                component: ComponentCreator('/docs/research/In-situ-STM/memristor-effect/', '6f3'),
+                component: ComponentCreator('/docs/research/In-situ-STM/memristor-effect/', '79f'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/In-situ-STM/phase-change/',
-                component: ComponentCreator('/docs/research/In-situ-STM/phase-change/', '031'),
+                component: ComponentCreator('/docs/research/In-situ-STM/phase-change/', '42f'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/research/Materials Pedagogy/',
-                component: ComponentCreator('/docs/research/Materials Pedagogy/', 'ae8'),
+                component: ComponentCreator('/docs/research/Materials Pedagogy/', 'd14'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/teaching/background/',
-                component: ComponentCreator('/docs/teaching/background/', '71b'),
+                component: ComponentCreator('/docs/teaching/background/', '048'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/characterization/assessment_instruments/',
-                component: ComponentCreator('/docs/teaching/characterization/assessment_instruments/', '4b7'),
+                component: ComponentCreator('/docs/teaching/characterization/assessment_instruments/', '6ed'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/characterization/syllabus/',
-                component: ComponentCreator('/docs/teaching/characterization/syllabus/', '193'),
+                component: ComponentCreator('/docs/teaching/characterization/syllabus/', 'e83'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/characterization/topic_overview/',
-                component: ComponentCreator('/docs/teaching/characterization/topic_overview/', '762'),
+                component: ComponentCreator('/docs/teaching/characterization/topic_overview/', '5f0'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/diversity-statement/',
-                component: ComponentCreator('/docs/teaching/diversity-statement/', '9c1'),
+                component: ComponentCreator('/docs/teaching/diversity-statement/', '1a5'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/documentation-of-teaching/',
-                component: ComponentCreator('/docs/teaching/documentation-of-teaching/', 'd78'),
+                component: ComponentCreator('/docs/teaching/documentation-of-teaching/', '7aa'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/introMSE/assessment_instrument/',
-                component: ComponentCreator('/docs/teaching/introMSE/assessment_instrument/', '6fd'),
+                component: ComponentCreator('/docs/teaching/introMSE/assessment_instrument/', '1e3'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/introMSE/learning_activities/',
-                component: ComponentCreator('/docs/teaching/introMSE/learning_activities/', 'e89'),
+                component: ComponentCreator('/docs/teaching/introMSE/learning_activities/', 'e2e'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/introMSE/module_overview/',
-                component: ComponentCreator('/docs/teaching/introMSE/module_overview/', '301'),
+                component: ComponentCreator('/docs/teaching/introMSE/module_overview/', '7fe'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/preamble/',
-                component: ComponentCreator('/docs/teaching/preamble/', '396'),
+                component: ComponentCreator('/docs/teaching/preamble/', 'a88'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/teaching/teaching-philosophy/',
-                component: ComponentCreator('/docs/teaching/teaching-philosophy/', '057'),
+                component: ComponentCreator('/docs/teaching/teaching-philosophy/', '463'),
                 exact: true,
                 sidebar: "teaching"
               }
@@ -271,7 +236,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '9d8'),
+    component: ComponentCreator('/', '155'),
     exact: true
   },
   {

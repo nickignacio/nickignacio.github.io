@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg255"
+   sodipodi:docname="scholar.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs259" />
+  <sodipodi:namedview
+     id="namedview257"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-32.542373"
+     inkscape:cy="256"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="1830"
+     inkscape:window-y="280"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg255" />
+  <!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+  <path
+     d="m 114.52148,87.451172 c 0,0 0,0.0293 0.0293,0.0293 2.69531,5.683593 4.21875,12.041015 4.21875,18.749998 C 118.74023,130.40039 99.169922,150 75,150 50.830078,150 31.259766,130.40039 31.259766,106.25977 c 0,-6.708989 1.523437,-13.066411 4.21875,-18.750004 v 0 c 0.498046,-1.054688 1.054687,-2.109375 1.640625,-3.134766 1.289062,-2.226563 2.753906,-4.306641 4.394531,-6.240234 8.027344,-9.550782 20.068359,-15.615235 33.515625,-15.615235 9.84375,0 18.925781,3.251953 26.250003,8.759766 2.66601,2.021484 5.09765,4.30664 7.26562,6.884765 1.64063,1.933594 3.10547,4.042969 4.39453,6.240235 0.58594,0.996094 1.11328,2.050781 1.61133,3.076172 z m 7.73438,-5.507813 C 113.4375,64.833984 95.595703,53.115234 75,53.115234 c -20.595703,0 -38.4375,11.71875 -47.255859,28.828125 L 0,59.384766 75,0 l 75,59.384766 -27.74414,22.58789 z"
+     id="path253"
+     style="stroke-width:0.292969" />
+</svg>
