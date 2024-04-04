@@ -4,16 +4,31 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+.portrait {
+  border-radius: 50%;
+}
+
+.blurb{
+  text-wrap: balance;
+  width: 100%;
+
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
   }
+}
+
+.blurb{
+  padding-left: 25%;
+  text-wrap: balance;
+  width: 75%;
 }
 
 .buttons {

@@ -1,13 +1,13 @@
 .gridrow {
   display: flex;
   flex-wrap: wrap;
+  overflow-y: scroll;
 }
 
 .gridcolumn {
-  flex: 75%;
-  max-width: 75%;
-  padding: 25pt;
-  
+  flex: 100%;
+  max-width: 100%;
+  padding: 25pt;  
 }
 
 .gridcolumn img {
@@ -21,8 +21,8 @@
 
 .imgimage {
   display: block;
-  width: 50px;
-  height: 50px;
+  width: 100%;
+  height: 100%;
   
 }
 
@@ -44,20 +44,24 @@
 
 .imgtext {
   color: white;
-  font-size: 24px;
+  font-size: 30px;
   font-weight:bold;
-  position: absolute;
-  top:  50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
+  text-align:center;
+  padding-top: 40%;
 }
 
+.link{
+  color: white;
+}
+
+.link:hover{
+  color: white;
+}
 @media screen and (min-width: 920px){
+
   .gridcolumn {
     flex: 50;
-    max-width: 50%;
+    max-width: 100%;
    
  
   }

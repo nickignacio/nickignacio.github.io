@@ -15,9 +15,17 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           Hi There!
         </Heading>
+        <img
+          className={styles.portrait}
+          src={require('/img/oxfordnick.jpg').default}
+          alt="Headshot of Nick Ignacio"
+          width="200" height = "200"
+          />
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p>I'm a Ph.D. candidate in materials science and engineering and a Cockrell School of Engineering fellow in the Texas Materials Institute at UT Austin. 
-        I work with Prof. Deji Akinwande on 2D-materials for neuromorphic computing applications.
+        <p className={styles.blurb}> I'm a Ph.D. candidate in materials science and engineering and a Cockrell School of Engineering fellow in the Texas Materials Institute at UT Austin. 
+        I work with Prof. Deji Akinwande on 2D-materials for neuromorphic computing applications. </p>
+        
+        <p className={styles.blurb}>
         Right now, I'm a DoE SCGSR fellow hosted by Oak Ridge National Lab working at the Center for Nanophase Materials Sciences with the Scanning Tunnelling Microscopy group.
         Feel free to look around and if anything catches your eye, or you think we could work together, please reach out.</p>
       </div>

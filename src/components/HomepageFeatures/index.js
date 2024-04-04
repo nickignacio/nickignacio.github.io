@@ -1,45 +1,60 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link'
 
-const FeatureList = [
-  {
-    title: '2D Materials for Neuromorphic Computing',
-    Svg: require('@site/static/img/research_interest_device.svg').default,
-  },
-  {
-    title: 'In Situ STM',
-    Svg: require('@site/static/img/research_interest_stm.svg').default,
-  },
-  {
-    title: 'Materials Pedagogy',
-    Svg: require('@site/static/img/research_interest_tetra.svg').default,
-  },
-];
-
-function Feature({Svg, title}) {
+function Features() {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.imgOverlay} role="img" />
-        <div className={styles.imgText}>
-        <Heading as="h3">{title}</Heading>
+    <div className = {styles.gridrow}>
+      <div className ={styles.gridcolumn}>
+              <div className={styles.imgcontainer}>
+                      <img 
+                          src="img/research_interest_device.png" 
+                          className={styles.imgimage}
+                          />
+                      <div className={styles.imgoverlay}>
+                              <div className={styles.imgtext}>
+                                <Link to="/docs/category/2d-materials-for-neuromorphic-computing/" className={styles.link}>
+                                  2D materials for Neuromorphic Computing
+                                </Link>
+                                </div>
+                      </div>
+              </div>        
       </div>
+      <div className ={styles.gridcolumn}>
+              <div className={styles.imgcontainer}>
+                      <img 
+                          src="img/research_interest_stm.png" 
+                          className={styles.imgimage}
+                          />
+                      <div className={styles.imgoverlay}>
+                          <div className={styles.imgtext}>
+                              <Link to="/docs/category/in-situ-stm-measurements" className={styles.link}>
+                                In-situ STM
+                              </Link>
+                          </div>
+                      </div>
+              </div>        
       </div>
-    </div>
+      <div className ={styles.gridcolumn}>
+        <div className={styles.imgcontainer}>
+                <img 
+                    src="img/research_interest_tetra.png" 
+                    className={styles.imgimage}
+                    />
+                <div className={styles.imgoverlay}>
+                    <div className={styles.imgtext}>
+                        <Link to="/docs/research/Materials%20Pedagogy/" className={styles.link}>
+                            Materials Pedagogy
+                        </Link>
+                    </div>
+                </div>
+        </div>        
+</div>
+</div>
   );
 }
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className={"imgcontainer"}>
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
+            <Features/>
   );
 }
