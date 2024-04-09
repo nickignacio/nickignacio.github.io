@@ -1,7 +1,7 @@
 
 ---
 
-_A printable version of my CV is available_ [here](/CV.pdf)
+_A printable version of my CV is available_ [here](pathname:///CV.pdf)
 
 ---
 
