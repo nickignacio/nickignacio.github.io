@@ -1,249 +1,205 @@
 {
-  "/__docusaurus/debug/-63f": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/blog/-63e": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
-    }
-  },
-  "/__docusaurus/debug/config/-406": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
-    }
-  },
-  "/__docusaurus/debug/content/-c86": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
+      "plugin": "36994c47"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-d88"
-  },
-  "/__docusaurus/debug/globalData/-4be": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
-    }
-  },
-  "/__docusaurus/debug/metadata/-510": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
-    }
-  },
-  "/__docusaurus/debug/registry/-1ee": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
-    }
-  },
-  "/__docusaurus/debug/routes/-579": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-148-02a"
-    }
-  },
-  "/blog/-cb2": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-671-adf"
-    },
-    "sidebar": "sidebar---blog-814-0c3",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-ad-5-901"
+        "content": "ad5a5f99"
       },
       {
-        "content": "content---blog-1-f-6-3a9"
+        "content": "1f6d6449"
       }
     ],
-    "metadata": "metadata---blog-b-2-b-af2"
+    "__props": "08af526d"
   },
-  "/blog/archive/-704": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/blog/archive/-1d9": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-671-adf"
+      "plugin": "36994c47"
     },
-    "archive": "archive---blog-archive-b-2-f-624"
+    "__props": "dbfc4782"
   },
-  "/blog/mdx-blog-post/-197": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/mdx-blog-post/-17a": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-first-blog-post-ace-70a"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-671-adf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-0c3",
-    "content": "content---blog-mdx-blog-post-0-f-2-126"
+    "sidebar": "814f3328",
+    "content": "0f21a67f"
   },
-  "/blog/tags/-483": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/blog/tags/-e17": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-671-adf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-0c3",
-    "tags": "tags---blog-tags-a-70-e4c"
+    "sidebar": "814f3328",
+    "__props": "2063472f"
   },
-  "/blog/tags/art/-a81": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/art/-5b9": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-671-adf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-0c3",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-1-f-6-3a9"
+        "content": "1f6d6449"
       }
     ],
-    "tag": "tag---blog-tags-art-78-d-6c6",
-    "listMetadata": "listMetadata---blog-tags-art-f-43-824"
+    "__props": "12305ed0"
   },
-  "/blog/Welcome/-607": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/Welcome/-338": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-first-blog-post-ace-70a"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-671-adf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-0c3",
-    "content": "content---blog-welcome-619-ed8"
+    "sidebar": "814f3328",
+    "content": "61966d9a"
   },
-  "/contact/-f52": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/contact/-73d": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---contact-991-eb1"
+      "plugin": "a7456010"
     },
-    "content": "content---contact-66-c-370"
+    "content": "66c10cbb"
   },
-  "/cv/-5b2": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/cv/-e8c": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---contact-991-eb1"
+      "plugin": "a7456010"
     },
-    "content": "content---cv-21-f-f9c"
+    "content": "21f688e5"
   },
-  "/markdown-page/-ed8": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/markdown-page/-54d": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---contact-991-eb1"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-038"
+    "content": "393be207"
   },
-  "/docs/-ed6": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs/-9b6": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docs-28-c-d2d"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs/-096": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-739"
+  "/docs/-d9d": {
+    "__comp": "a7bd4aaa",
+    "__props": "11b43341"
   },
-  "/docs/-c31": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs/-bcd": {
+    "__comp": "a94703ab"
   },
   "/docs/about/-f1a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-about-ceb-b0d"
+    "__comp": "17896441",
+    "content": "ceb5ae55"
   },
-  "/docs/category/2d-materials-for-neuromorphic-computing/-fdb": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-2-d-materials-for-neuromorphic-computing-272-eae"
+  "/docs/category/2d-materials-for-neuromorphic-computing/-1d9": {
+    "__comp": "14eb3368",
+    "__props": "7abe6de7"
   },
-  "/docs/category/example-teaching-module-introduction-to-mse/-478": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-example-teaching-module-introduction-to-mse-811-b3e"
+  "/docs/category/example-teaching-module-introduction-to-mse/-9c8": {
+    "__comp": "14eb3368",
+    "__props": "d7e41ce8"
   },
-  "/docs/category/example-teaching-module-practical-characterization-of-materials/-3bc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-example-teaching-module-practical-characterization-of-materials-630-142"
+  "/docs/category/example-teaching-module-practical-characterization-of-materials/-6a0": {
+    "__comp": "14eb3368",
+    "__props": "ce60cd17"
   },
-  "/docs/category/in-situ-stm-measurements/-243": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-in-situ-stm-measurements-56-c-b7b"
+  "/docs/category/in-situ-stm-measurements/-3c3": {
+    "__comp": "14eb3368",
+    "__props": "98646901"
   },
   "/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm/-bcc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-2-d-materials-for-neuromorphic-computing-cc-pcm-6-d-3-79b"
+    "__comp": "17896441",
+    "content": "6d3800f3"
   },
   "/docs/research/2d-materials-for-neuromorphic-computing/defect-eng/-cf0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-2-d-materials-for-neuromorphic-computing-defect-eng-888-80f"
+    "__comp": "17896441",
+    "content": "888be116"
   },
   "/docs/research/2d-materials-for-neuromorphic-computing/tem-rram/-e78": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-2-d-materials-for-neuromorphic-computing-tem-rram-98-e-3ed"
+    "__comp": "17896441",
+    "content": "98e96443"
   },
   "/docs/research/In-situ-STM/co-reconstruction/-047": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-in-situ-stm-co-reconstruction-338-f45"
+    "__comp": "17896441",
+    "content": "33883687"
   },
   "/docs/research/In-situ-STM/layer-by-layer/-c2b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-in-situ-stm-layer-by-layer-d-79-d7c"
+    "__comp": "17896441",
+    "content": "d79b2aac"
   },
   "/docs/research/In-situ-STM/memristor-effect/-79f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-in-situ-stm-memristor-effect-be-0-daf"
+    "__comp": "17896441",
+    "content": "be0c76e6"
   },
   "/docs/research/In-situ-STM/phase-change/-42f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-in-situ-stm-phase-change-b-16-57a"
+    "__comp": "17896441",
+    "content": "b16169f7"
   },
   "/docs/research/Materials Pedagogy/-d14": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-research-materials-pedagogy-f-96-5c1"
+    "__comp": "17896441",
+    "content": "f966cca1"
   },
   "/docs/teaching/background/-048": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-background-a-67-14a"
+    "__comp": "17896441",
+    "content": "a67da705"
   },
   "/docs/teaching/characterization/assessment_instruments/-6ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-characterization-assessment-instruments-45-d-251"
+    "__comp": "17896441",
+    "content": "45d1e7ac"
   },
   "/docs/teaching/characterization/syllabus/-e83": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-characterization-syllabus-d-43-f13"
+    "__comp": "17896441",
+    "content": "d438a632"
   },
   "/docs/teaching/characterization/topic_overview/-5f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-characterization-topic-overview-51-c-85c"
+    "__comp": "17896441",
+    "content": "51c4116f"
   },
   "/docs/teaching/diversity-statement/-1a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-diversity-statement-18-d-8a7"
+    "__comp": "17896441",
+    "content": "18d15a31"
   },
   "/docs/teaching/documentation-of-teaching/-7aa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-documentation-of-teaching-cab-ec0"
+    "__comp": "17896441",
+    "content": "cab6f09c"
   },
   "/docs/teaching/introMSE/assessment_instrument/-1e3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-intro-mse-assessment-instrument-dab-ebe"
+    "__comp": "17896441",
+    "content": "dab26402"
   },
   "/docs/teaching/introMSE/learning_activities/-e2e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-intro-mse-learning-activities-76-b-49f"
+    "__comp": "17896441",
+    "content": "76bcffe8"
   },
   "/docs/teaching/introMSE/module_overview/-7fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-intro-mse-module-overview-d-34-a49"
+    "__comp": "17896441",
+    "content": "d340a3a2"
   },
   "/docs/teaching/preamble/-a88": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-preamble-ff-0-8e1"
+    "__comp": "17896441",
+    "content": "ff0d0540"
   },
   "/docs/teaching/teaching-philosophy/-463": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-teaching-teaching-philosophy-62-d-560"
+    "__comp": "17896441",
+    "content": "62d36c4a"
   },
-  "/-155": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/-2e1": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---contact-991-eb1"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

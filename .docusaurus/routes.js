@@ -3,96 +3,61 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug/',
-    component: ComponentCreator('/__docusaurus/debug/', '63f'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config/',
-    component: ComponentCreator('/__docusaurus/debug/config/', '406'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content/',
-    component: ComponentCreator('/__docusaurus/debug/content/', 'c86'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData/',
-    component: ComponentCreator('/__docusaurus/debug/globalData/', '4be'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata/',
-    component: ComponentCreator('/__docusaurus/debug/metadata/', '510'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry/',
-    component: ComponentCreator('/__docusaurus/debug/registry/', '1ee'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes/',
-    component: ComponentCreator('/__docusaurus/debug/routes/', '579'),
-    exact: true
-  },
-  {
     path: '/blog/',
-    component: ComponentCreator('/blog/', 'cb2'),
+    component: ComponentCreator('/blog/', '63e'),
     exact: true
   },
   {
     path: '/blog/archive/',
-    component: ComponentCreator('/blog/archive/', '704'),
+    component: ComponentCreator('/blog/archive/', '1d9'),
     exact: true
   },
   {
     path: '/blog/mdx-blog-post/',
-    component: ComponentCreator('/blog/mdx-blog-post/', '197'),
+    component: ComponentCreator('/blog/mdx-blog-post/', '17a'),
     exact: true
   },
   {
     path: '/blog/tags/',
-    component: ComponentCreator('/blog/tags/', '483'),
+    component: ComponentCreator('/blog/tags/', 'e17'),
     exact: true
   },
   {
     path: '/blog/tags/art/',
-    component: ComponentCreator('/blog/tags/art/', 'a81'),
+    component: ComponentCreator('/blog/tags/art/', '5b9'),
     exact: true
   },
   {
     path: '/blog/Welcome/',
-    component: ComponentCreator('/blog/Welcome/', '607'),
+    component: ComponentCreator('/blog/Welcome/', '338'),
     exact: true
   },
   {
     path: '/contact/',
-    component: ComponentCreator('/contact/', 'f52'),
+    component: ComponentCreator('/contact/', '73d'),
     exact: true
   },
   {
     path: '/cv/',
-    component: ComponentCreator('/cv/', '5b2'),
+    component: ComponentCreator('/cv/', 'e8c'),
     exact: true
   },
   {
     path: '/markdown-page/',
-    component: ComponentCreator('/markdown-page/', 'ed8'),
+    component: ComponentCreator('/markdown-page/', '54d'),
     exact: true
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', 'ed6'),
+    component: ComponentCreator('/docs/', '9b6'),
     routes: [
       {
         path: '/docs/',
-        component: ComponentCreator('/docs/', '096'),
+        component: ComponentCreator('/docs/', 'd9d'),
         routes: [
           {
             path: '/docs/',
-            component: ComponentCreator('/docs/', 'c31'),
+            component: ComponentCreator('/docs/', 'bcd'),
             routes: [
               {
                 path: '/docs/about/',
@@ -102,25 +67,25 @@ export default [
               },
               {
                 path: '/docs/category/2d-materials-for-neuromorphic-computing/',
-                component: ComponentCreator('/docs/category/2d-materials-for-neuromorphic-computing/', 'fdb'),
+                component: ComponentCreator('/docs/category/2d-materials-for-neuromorphic-computing/', '1d9'),
                 exact: true,
                 sidebar: "research"
               },
               {
                 path: '/docs/category/example-teaching-module-introduction-to-mse/',
-                component: ComponentCreator('/docs/category/example-teaching-module-introduction-to-mse/', '478'),
+                component: ComponentCreator('/docs/category/example-teaching-module-introduction-to-mse/', '9c8'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/category/example-teaching-module-practical-characterization-of-materials/',
-                component: ComponentCreator('/docs/category/example-teaching-module-practical-characterization-of-materials/', '3bc'),
+                component: ComponentCreator('/docs/category/example-teaching-module-practical-characterization-of-materials/', '6a0'),
                 exact: true,
                 sidebar: "teaching"
               },
               {
                 path: '/docs/category/in-situ-stm-measurements/',
-                component: ComponentCreator('/docs/category/in-situ-stm-measurements/', '243'),
+                component: ComponentCreator('/docs/category/in-situ-stm-measurements/', '3c3'),
                 exact: true,
                 sidebar: "research"
               },
@@ -246,7 +211,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '155'),
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {
