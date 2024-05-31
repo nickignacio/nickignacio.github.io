@@ -13,7 +13,7 @@ function Features() {
                       <div className={styles.imgoverlay}>
                               <div className={styles.imgtext}>
                                 <Link to="/docs/category/2d-materials-for-neuromorphic-computing/" className={styles.link}>
-                                  2D materials for Neuromorphic Computing
+                                  2D-Materials for Neuromorphic Computing
                                 </Link>
                                 </div>
                       </div>

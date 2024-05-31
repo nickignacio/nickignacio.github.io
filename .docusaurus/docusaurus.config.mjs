@@ -67,6 +67,11 @@ export default {
           "label": "Teaching"
         },
         {
+          "to": "/blog",
+          "label": "Updates",
+          "position": "left"
+        },
+        {
           "to": "cv",
           "label": "CV",
           "position": "left"

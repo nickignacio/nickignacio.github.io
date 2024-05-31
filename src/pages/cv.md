@@ -18,7 +18,7 @@ Education
 ---------
 
 `2021-2025 (expected)` **Ph.D., Materials Science and Engineering** , _The University of Texas at Austin_, Austin, TX.
-\- Advisor: Prof. Deji Akinwnade  
+\- Advisor: Prof. Deji Akinwande  
 \- Thesis: _Phase and Defect Engineering in 2D Materials Studied by STM_.
 
 `2020` **Visiting Student through Materials Exchange Program** , _University of Oxford_, Oxford, UK.
@@ -36,6 +36,9 @@ Research Interests
 
 Awards & Honors
 ---------------
+
+`2024`   
+**2024 Provost's Early Career Fellow**, _University of Texas at Austin, Office of the Executive Vice President and Provost_.
 
 `2023`   
 **Science Gradutate Student Research Fellowship**, _U.S. Department of Energy, hosted by Oak Ridge National Lab, Center of Nanophase Materials Science, Scanning Tunneling Microscopy Group_.
@@ -58,15 +61,16 @@ Publications
 
 **1.** M. Floto*, **N.D. Ignacio***, R. Ciufo, D. Akinwande, C.B. Mullins, Hydrogen-Induced Surface Reconstruction of Co(pol) Studied by STM
 
-**2.** S. Kutagulla, C. Favela, **N. D. Ignacio**, N.H. Le, I. Terry, C. Bohn, B. Korgel, D. Akinwande, Defect engineered single layer graphene for extended performance and range for fuel cell electric vehicles
 
 ### Prepress
 
-**3.** Y. Lee, Y. Huang, Y.-F. Chang, S. J. Yang, **N. D. Ignacio**, S. Kutagulla, S. Mohan, S. Kim, J. Lee, D. Akinwande, S. Kim, Programmable Retention Characteristics in MoS2-Based Atmristors for Neuromorphic and Reservoir Computing Systems, _ACS Nano_ (2024) **In Review**.
+**2.** S. Kutagulla, M. Coupin, C. Favela, **N. D. Ignacio**, N.H. Le, I. Terry, C. Bohn, J. Warner B. Korgel, D. Akinwande, Ozonated monolayer graphene for extended performance and durability in hydrogen fuel cell electric vehicles _Adv Mater_ (2024) **In Review**
 
 ### Journal articles
 
 `2024`
+
+**3.** Y. Lee, Y. Huang, Y.-F. Chang, S. J. Yang, **N. D. Ignacio**, S. Kutagulla, S. Mohan, S. Kim, J. Lee, D. Akinwande, S. Kim, Programmable Retention Characteristics in MoS2-Based Atmristors for Neuromorphic and Reservoir Computing Systems, _ACS Nano_ (2024) 
 
 **4.** J. Xie, Md. N. Patoary,Md. A. Rahman Laskar, **N. D. Ignacio**, X.Zhan, U. Celano, D. Akinwande, I. Sanchez Esqueda, [Quantum conductance in vertical hexagonal boron nitride memeristors with graphene-edge contancts](https://doi.org/10.1021/acs.nanolett.3c04057), _ACS Nano Lett 24, 8, 2473-2480_ (2024).
 
@@ -81,6 +85,12 @@ Publications
 
 Conferences
 -----------
+### Papers
+
+`2025`
+
+**1.** **N. D. Ignacio***, N. B. Stern*, G. C. Fleming, Promoting Gradaute Engineering Communities and Job Satisfaction: Curating Department-Specific Peer-led Teaching Assistant Support Programs American Society for Engineering Education (ASEE) Collaborative Network for Engineering and Computing Diversity (CoNECD) 2025 _San Antonio, TX, USA_.
+
 ### Posters
 
 `2023`  
@@ -99,6 +109,7 @@ Memberships
 - American Chemical Society (ACS)
 - American Society of Mechanical Engineers (ASME)
 - Materials Research Society (MRS)
+- American Physics Society (APS)
 
 Teaching Experiences
 -----------
@@ -160,4 +171,4 @@ Professional Experience
 
 `01/2019` **Low Observable Materials Intern**, Lockheed Martin Skunkworks
 
-Last updated: March 2024
+Last updated: May 2024

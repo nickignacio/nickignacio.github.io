@@ -85,9 +85,10 @@ const config = {
             position: 'left',
             label: 'Teaching',
           },
+          {to: '/blog', label: 'Updates', position: 'left'},
           {to: 'cv', label: 'CV', position: 'left'},
           {to: 'contact', label: 'Contact Me!', position: 'right'},
-          //{to: '/blog', label: 'Updates', position: 'left'},
+          
         ],
       },
       footer: {

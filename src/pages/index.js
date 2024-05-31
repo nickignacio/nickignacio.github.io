@@ -28,6 +28,9 @@ function HomepageHeader() {
         <p className={styles.blurb}>
         Right now, I'm a DoE SCGSR fellow hosted by Oak Ridge National Lab working at the Center for Nanophase Materials Sciences with the Scanning Tunnelling Microscopy group.
         Feel free to look around and if anything catches your eye, or you think we could work together, please reach out.</p>
+
+        <p className={styles.blurb}>
+        Contact me at igni [at] utxexas [dot] edu</p>
       </div>
     </header>
   );
