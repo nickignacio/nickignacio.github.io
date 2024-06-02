@@ -9,7 +9,7 @@ Nicholas Ignacio
 =======================
 
 Ph.D. Candidate, Texas Materials Institute, The University of Texas at Austin  
-DOE SCGSR Fellow, Center for Nanophase Materials Science, Oak Ridge National Lab
+Provost's Early Career Fellow, The University of Texas at Austin
 
 
 2501 Speedway, Austin, 78712 TX | +1(325) 829-6146 |   [igni@utexas.edu](mailto:igni@utexas.edu) | [nignacio.com](https://nignacio.com)

@@ -8,8 +8,8 @@
   "tags": [
     {
       "inline": true,
-      "label": "art",
-      "permalink": "/blog/tags/art"
+      "label": "handiwork",
+      "permalink": "/blog/tags/handiwork"
     }
   ],
   "readingTime": 0.12,
@@ -19,12 +19,12 @@
     "slug": "mdx-blog-post",
     "title": "Glass Blown Drinking Glass",
     "tags": [
-      "art"
+      "handiwork"
     ]
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Welcome",
-    "permalink": "/blog/Welcome"
+    "title": "Rocky Top",
+    "permalink": "/blog/md-blog-post"
   }
 }

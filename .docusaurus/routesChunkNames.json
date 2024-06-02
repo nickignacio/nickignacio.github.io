@@ -1,205 +1,275 @@
 {
-  "/blog/-63e": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug/-546": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/config/-8a8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/content/-2da": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
     },
-    "sidebar": "814f3328",
+    "__props": "__props---docusaurus-debug-content-197-dc7"
+  },
+  "/__docusaurus/debug/globalData/-178": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/metadata/-d6c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/registry/-6e3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/routes/-cab": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/blog/-ac2": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
     "items": [
       {
-        "content": "ad5a5f99"
+        "content": "content---blog-ad-5-901"
       },
       {
-        "content": "1f6d6449"
+        "content": "content---blog-3-b-4-ac3"
+      },
+      {
+        "content": "content---blog-1-f-6-3a9"
       }
     ],
-    "__props": "08af526d"
+    "__props": "__props---blog-08-a-0b8"
   },
   "/blog/archive/-1d9": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-533"
     },
-    "__props": "dbfc4782"
+    "__props": "__props---blog-archive-dbf-bf3"
+  },
+  "/blog/md-blog-post/-f47": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-mdx-blog-post-ace-182"
+      },
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-mdx-blog-post-c-0-c-574"
   },
   "/blog/mdx-blog-post/-17a": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-mdx-blog-post-ace-182"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-533"
     },
-    "sidebar": "814f3328",
-    "content": "0f21a67f"
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-mdx-blog-post-0-f-2-126"
   },
   "/blog/tags/-e17": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-533"
     },
-    "sidebar": "814f3328",
-    "__props": "2063472f"
+    "sidebar": "sidebar---blog-814-0c3",
+    "__props": "__props---blog-tags-206-de0"
   },
-  "/blog/tags/art/-5b9": {
-    "__comp": "6875c492",
+  "/blog/tags/handiwork/-d3a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-533"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-0c3",
     "items": [
       {
-        "content": "1f6d6449"
+        "content": "content---blog-1-f-6-3a9"
       }
     ],
-    "__props": "12305ed0"
+    "__props": "__props---blog-tags-handiwork-463-b1a"
+  },
+  "/blog/tags/outings/-01e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-533"
+    },
+    "sidebar": "sidebar---blog-814-0c3",
+    "items": [
+      {
+        "content": "content---blog-3-b-4-ac3"
+      }
+    ],
+    "__props": "__props---blog-tags-outings-8-d-8-33c"
   },
   "/blog/Welcome/-338": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-mdx-blog-post-ace-182"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-533"
     },
-    "sidebar": "814f3328",
-    "content": "61966d9a"
+    "sidebar": "sidebar---blog-814-0c3",
+    "content": "content---blog-welcome-619-ed8"
   },
   "/contact/-73d": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---contact-a-74-7bb"
     },
-    "content": "66c10cbb"
+    "content": "content---contact-66-c-370"
   },
   "/cv/-e8c": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---contact-a-74-7bb"
     },
-    "content": "21f688e5"
+    "content": "content---cv-21-f-f9c"
   },
   "/markdown-page/-54d": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---contact-a-74-7bb"
     },
-    "content": "393be207"
+    "content": "content---markdown-page-393-038"
   },
   "/docs/-9b6": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docs-aba-4f5"
     }
   },
   "/docs/-d9d": {
-    "__comp": "a7bd4aaa",
-    "__props": "11b43341"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-11-b-f70"
   },
   "/docs/-bcd": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/about/-f1a": {
-    "__comp": "17896441",
-    "content": "ceb5ae55"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-about-ceb-b0d"
   },
   "/docs/category/2d-materials-for-neuromorphic-computing/-1d9": {
-    "__comp": "14eb3368",
-    "__props": "7abe6de7"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-2-d-materials-for-neuromorphic-computing-7-ab-a93"
   },
   "/docs/category/example-teaching-module-introduction-to-mse/-9c8": {
-    "__comp": "14eb3368",
-    "__props": "d7e41ce8"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-example-teaching-module-introduction-to-mse-d-7-e-ace"
   },
   "/docs/category/example-teaching-module-practical-characterization-of-materials/-6a0": {
-    "__comp": "14eb3368",
-    "__props": "ce60cd17"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-example-teaching-module-practical-characterization-of-materials-ce-6-27a"
   },
   "/docs/category/in-situ-stm-measurements/-3c3": {
-    "__comp": "14eb3368",
-    "__props": "98646901"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-in-situ-stm-measurements-986-6ab"
   },
   "/docs/research/2d-materials-for-neuromorphic-computing/cc-pcm/-bcc": {
-    "__comp": "17896441",
-    "content": "6d3800f3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-2-d-materials-for-neuromorphic-computing-cc-pcm-6-d-3-79b"
   },
   "/docs/research/2d-materials-for-neuromorphic-computing/defect-eng/-cf0": {
-    "__comp": "17896441",
-    "content": "888be116"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-2-d-materials-for-neuromorphic-computing-defect-eng-888-80f"
   },
   "/docs/research/2d-materials-for-neuromorphic-computing/tem-rram/-e78": {
-    "__comp": "17896441",
-    "content": "98e96443"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-2-d-materials-for-neuromorphic-computing-tem-rram-98-e-3ed"
   },
   "/docs/research/In-situ-STM/co-reconstruction/-047": {
-    "__comp": "17896441",
-    "content": "33883687"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-in-situ-stm-co-reconstruction-338-f45"
   },
   "/docs/research/In-situ-STM/layer-by-layer/-c2b": {
-    "__comp": "17896441",
-    "content": "d79b2aac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-in-situ-stm-layer-by-layer-d-79-d7c"
   },
   "/docs/research/In-situ-STM/memristor-effect/-79f": {
-    "__comp": "17896441",
-    "content": "be0c76e6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-in-situ-stm-memristor-effect-be-0-daf"
   },
   "/docs/research/In-situ-STM/phase-change/-42f": {
-    "__comp": "17896441",
-    "content": "b16169f7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-in-situ-stm-phase-change-b-16-57a"
   },
   "/docs/research/Materials Pedagogy/-d14": {
-    "__comp": "17896441",
-    "content": "f966cca1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-materials-pedagogy-f-96-5c1"
   },
   "/docs/teaching/background/-048": {
-    "__comp": "17896441",
-    "content": "a67da705"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-background-a-67-14a"
   },
   "/docs/teaching/characterization/assessment_instruments/-6ed": {
-    "__comp": "17896441",
-    "content": "45d1e7ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-characterization-assessment-instruments-45-d-251"
   },
   "/docs/teaching/characterization/syllabus/-e83": {
-    "__comp": "17896441",
-    "content": "d438a632"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-characterization-syllabus-d-43-f13"
   },
   "/docs/teaching/characterization/topic_overview/-5f0": {
-    "__comp": "17896441",
-    "content": "51c4116f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-characterization-topic-overview-51-c-85c"
   },
   "/docs/teaching/diversity-statement/-1a5": {
-    "__comp": "17896441",
-    "content": "18d15a31"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-diversity-statement-18-d-8a7"
   },
   "/docs/teaching/documentation-of-teaching/-7aa": {
-    "__comp": "17896441",
-    "content": "cab6f09c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-documentation-of-teaching-cab-ec0"
   },
   "/docs/teaching/introMSE/assessment_instrument/-1e3": {
-    "__comp": "17896441",
-    "content": "dab26402"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-intro-mse-assessment-instrument-dab-ebe"
   },
   "/docs/teaching/introMSE/learning_activities/-e2e": {
-    "__comp": "17896441",
-    "content": "76bcffe8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-intro-mse-learning-activities-76-b-49f"
   },
   "/docs/teaching/introMSE/module_overview/-7fe": {
-    "__comp": "17896441",
-    "content": "d340a3a2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-intro-mse-module-overview-d-34-a49"
   },
   "/docs/teaching/preamble/-a88": {
-    "__comp": "17896441",
-    "content": "ff0d0540"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-preamble-ff-0-8e1"
   },
   "/docs/teaching/teaching-philosophy/-463": {
-    "__comp": "17896441",
-    "content": "62d36c4a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-teaching-teaching-philosophy-62-d-560"
   },
   "/-2e1": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---contact-a-74-7bb"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

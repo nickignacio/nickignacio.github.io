@@ -1,7 +1,7 @@
 ---
 slug: mdx-blog-post
 title: Glass Blown Drinking Glass
-tags: [art]
+tags: [handiwork]
 ---
 
 ![Opaque orange and translucent yellow glass lowboy](./IMG_2546.jpeg)
