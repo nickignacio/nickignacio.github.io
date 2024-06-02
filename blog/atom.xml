@@ -16,6 +16,16 @@
         <content type="html"><![CDATA[<p>Miscellaneous life updates, thoughts or art projects can be found below</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rocky Top]]></title>
+        <id>https://nickignacio.github.io/blog/md-blog-post/</id>
+        <link href="https://nickignacio.github.io/blog/md-blog-post/"/>
+        <updated>2024-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[View of the cloudy sky meeting the Great Smoky Mountains looking east from Rocky Top]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="View of the cloudy sky meeting the Great Smoky Mountains looking east from Rocky Top " src="https://nickignacio.github.io/assets/images/rockytop-06083eee95b3a78e9049eaa2d07069f5.png" width="3596" height="2697" class="img_ev3q"></p>
+<p>View from Rocky Top looking East over the Great Smoky Mountains. Started from Lead Cove Trailhead in GSMNP.</p>]]></content>
+        <category label="outings" term="outings"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Glass Blown Drinking Glass]]></title>
         <id>https://nickignacio.github.io/blog/mdx-blog-post/</id>
         <link href="https://nickignacio.github.io/blog/mdx-blog-post/"/>
@@ -23,6 +33,6 @@
         <summary type="html"><![CDATA[Opaque orange and translucent yellow glass lowboy]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Opaque orange and translucent yellow glass lowboy" src="https://nickignacio.github.io/assets/images/IMG_2546-0282e89fdb80738c7df993b4f33e07bb.jpeg" width="2243" height="2243" class="img_ev3q"></p>
 <p>Borosilicate glass mixed with opaque orange and translucent yellow. Blown at Pretentious Glass Co. in Knoxville, TN.</p>]]></content>
-        <category label="art" term="art"/>
+        <category label="handiwork" term="handiwork"/>
     </entry>
 </feed>
