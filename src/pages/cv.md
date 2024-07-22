@@ -85,12 +85,6 @@ Publications
 
 Conferences
 -----------
-### Papers
-
-`2025`
-
-**1.** **N. D. Ignacio***, N. B. Stern*, G. C. Fleming, Promoting Gradaute Engineering Communities and Job Satisfaction: Curating Department-Specific Peer-led Teaching Assistant Support Programs American Society for Engineering Education (ASEE) Collaborative Network for Engineering and Computing Diversity (CoNECD) 2025 _San Antonio, TX, USA_.
-
 ### Posters
 
 `2023`  

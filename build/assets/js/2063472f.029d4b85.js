@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknickignacio_github_io=self.webpackChunknickignacio_github_io||[]).push([[3215],{7646:i=>{i.exports=JSON.parse('{"tags":[{"label":"art","permalink":"/blog/tags/art","count":1}]}')}}]);
