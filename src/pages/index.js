@@ -26,7 +26,7 @@ function HomepageHeader() {
         I work with Prof. Deji Akinwande on 2D-materials for neuromorphic computing applications. </p>
         
         <p className={styles.blurb}>
-        Right now, I'm a DoE SCGSR fellow hosted by Oak Ridge National Lab working at the Center for Nanophase Materials Sciences with the Scanning Tunnelling Microscopy group.
+        I'm a UT Austin Provost's Early Career Fellow with an anticpitated graduation in May 2025. I am currently on the job market looking for research or teaching opportunities.
         Feel free to look around and if anything catches your eye, or you think we could work together, please reach out.</p>
 
         <p className={styles.blurb}>

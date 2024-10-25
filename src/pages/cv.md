@@ -32,7 +32,8 @@ Research Interests
 *   Crystalline-crystalline phase transformations for multilevel PCM.
 *   Electronic transport in low dimensional material devices.  
 *   Scanning transmission electron microscopy and scanning tunnelling microscopy (Cryogenic STM superuser at TMI)    
-*   Materials science pedagogy.
+*   Effects of peer mentorship in learning outcomes.
+*   Development of online educational tools for hands-on lab skills
 
 Awards & Honors
 ---------------
@@ -165,4 +166,4 @@ Professional Experience
 
 `01/2019` **Low Observable Materials Intern**, Lockheed Martin Skunkworks
 
-Last updated: May 2024
+Last updated: October 2024
