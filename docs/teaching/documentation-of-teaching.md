@@ -5,6 +5,9 @@ sidebar_position: 7
 # Documentation of Teaching #
 
 ## Teaching Experience
+*	Experiments in Materials Science and Engineering (MSE 360M) UT Austin Fall 2024 - Dr. Derek Davies
+    *	Enrollment: 24 - MT Lecture and Lab
+    *   Graduate Instructor - Lead lab sections and held office hours. Some lecturing responsibility
 *	Introduction to Astronomy (AST 301) UT Austin Spring 2023 - Prof. Paul Shapiro
     *	Enrollment: 104 - MWF Lecture and TTh Recitation Sections
     *	Rating: 4.62/5 - Student feedback available upon request
@@ -35,3 +38,7 @@ sidebar_position: 7
 `08/2021-current` MIT Education Councilor (interview prospective undergraduates)
 
 `08/2018-08/2021` Dept. of Materials Science Freshman Pre-orientation prgram mentor and coordinator, weeklong program introducing incoming-first year students at MIT to materials science and engineering and the opportunities available to them through the department of materials science and engineering.
+
+![UT STEM Day ](@site/static/img/teaching/utstemday2022.jpeg)
+
+Density column demonstration at UT Austin STEM day through UT MRSEC

@@ -43,7 +43,7 @@ function Features() {
                 <div className={styles.imgoverlay}>
                     <div className={styles.imgtext}>
                         <Link to="/docs/research/Materials%20Pedagogy/" className={styles.link}>
-                            Materials Pedagogy
+                            STEM Pedagogy
                         </Link>
                     </div>
                 </div>
