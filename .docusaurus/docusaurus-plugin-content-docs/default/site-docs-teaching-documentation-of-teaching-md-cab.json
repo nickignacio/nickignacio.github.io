@@ -1,7 +1,7 @@
 {
   "id": "teaching/documentation-of-teaching",
-  "title": "Documentation of Teaching",
-  "description": "Teaching Experience",
+  "title": "Teaching Experience",
+  "description": "University Experience",
   "source": "@site/docs/teaching/documentation-of-teaching.md",
   "sourceDirName": "teaching",
   "slug": "/teaching/documentation-of-teaching",

@@ -1,0 +1,22 @@
+{
+  "id": "teaching/diversity-statement copy",
+  "title": "Commitment to Diversity",
+  "description": "For a more detailed and formal statement of diversity, equity, and inclusion, please reach out to me.",
+  "source": "@site/docs/teaching/diversity-statement copy.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/diversity-statement copy",
+  "permalink": "/docs/teaching/diversity-statement copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Assessment Instruments: Written Challenge Problem",
+    "permalink": "/docs/teaching/characterization/assessment_instruments"
+  }
+}

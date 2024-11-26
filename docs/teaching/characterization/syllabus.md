@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Course Syllabus: Practical Characterization in Materials Science
 
+Developed as a part of a model course for Inquiry Based Instructional Design Course taught by Prof. Ken Diller
+
 Course Instructor: Nick Ignacio  
 E-mail: igni@utexas.edu
 

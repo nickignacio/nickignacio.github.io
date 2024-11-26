@@ -1,0 +1,26 @@
+{
+  "id": "teaching/teaching-experience copy",
+  "title": "Teaching Experience",
+  "description": "University Experience",
+  "source": "@site/docs/teaching/teaching-experience copy.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/teaching-experience copy",
+  "permalink": "/docs/teaching/teaching-experience copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "teaching",
+  "previous": {
+    "title": "Teaching Identity",
+    "permalink": "/docs/teaching/background"
+  },
+  "next": {
+    "title": "Teaching Experience",
+    "permalink": "/docs/teaching/teaching-experience"
+  }
+}

@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/docs/',
-    component: ComponentCreator('/docs/', '9b6'),
+    component: ComponentCreator('/docs/', 'c64'),
     routes: [
       {
         path: '/docs/',
-        component: ComponentCreator('/docs/', 'd9d'),
+        component: ComponentCreator('/docs/', '65a'),
         routes: [
           {
             path: '/docs/',
-            component: ComponentCreator('/docs/', 'bcd'),
+            component: ComponentCreator('/docs/', '2ad'),
             routes: [
               {
                 path: '/docs/about/',
@@ -148,12 +148,6 @@ export default [
                 sidebar: "research"
               },
               {
-                path: '/docs/teaching/background/',
-                component: ComponentCreator('/docs/teaching/background/', '048'),
-                exact: true,
-                sidebar: "teaching"
-              },
-              {
                 path: '/docs/teaching/characterization/assessment_instruments/',
                 component: ComponentCreator('/docs/teaching/characterization/assessment_instruments/', '6ed'),
                 exact: true,
@@ -178,12 +172,6 @@ export default [
                 sidebar: "teaching"
               },
               {
-                path: '/docs/teaching/documentation-of-teaching/',
-                component: ComponentCreator('/docs/teaching/documentation-of-teaching/', '7aa'),
-                exact: true,
-                sidebar: "teaching"
-              },
-              {
                 path: '/docs/teaching/introMSE/assessment_instrument/',
                 component: ComponentCreator('/docs/teaching/introMSE/assessment_instrument/', '1e3'),
                 exact: true,
@@ -202,8 +190,8 @@ export default [
                 sidebar: "teaching"
               },
               {
-                path: '/docs/teaching/preamble/',
-                component: ComponentCreator('/docs/teaching/preamble/', 'a88'),
+                path: '/docs/teaching/teaching-experience/',
+                component: ComponentCreator('/docs/teaching/teaching-experience/', 'e08'),
                 exact: true,
                 sidebar: "teaching"
               },

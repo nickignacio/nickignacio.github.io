@@ -1,0 +1,22 @@
+{
+  "id": "teaching/teaching-experience",
+  "title": "Teaching Experience",
+  "description": "University Experience",
+  "source": "@site/docs/teaching/teaching-experience.md",
+  "sourceDirName": "teaching",
+  "slug": "/teaching/teaching-experience",
+  "permalink": "/docs/teaching/teaching-experience",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "teaching",
+  "next": {
+    "title": "Teaching Philosophy",
+    "permalink": "/docs/teaching/teaching-philosophy"
+  }
+}

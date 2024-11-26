@@ -56,11 +56,6 @@
               "sidebar": "research"
             },
             {
-              "id": "teaching/background",
-              "path": "/docs/teaching/background",
-              "sidebar": "teaching"
-            },
-            {
               "id": "teaching/characterization/assessment_instruments",
               "path": "/docs/teaching/characterization/assessment_instruments",
               "sidebar": "teaching"
@@ -81,11 +76,6 @@
               "sidebar": "teaching"
             },
             {
-              "id": "teaching/documentation-of-teaching",
-              "path": "/docs/teaching/documentation-of-teaching",
-              "sidebar": "teaching"
-            },
-            {
               "id": "teaching/introMSE/assessment_instrument",
               "path": "/docs/teaching/introMSE/assessment_instrument",
               "sidebar": "teaching"
@@ -101,8 +91,8 @@
               "sidebar": "teaching"
             },
             {
-              "id": "teaching/preamble",
-              "path": "/docs/teaching/preamble",
+              "id": "teaching/teaching-experience",
+              "path": "/docs/teaching/teaching-experience",
               "sidebar": "teaching"
             },
             {
@@ -141,8 +131,8 @@
             },
             "teaching": {
               "link": {
-                "path": "/docs/teaching/preamble",
-                "label": "teaching/preamble"
+                "path": "/docs/teaching/teaching-experience",
+                "label": "teaching/teaching-experience"
               }
             },
             "about": {

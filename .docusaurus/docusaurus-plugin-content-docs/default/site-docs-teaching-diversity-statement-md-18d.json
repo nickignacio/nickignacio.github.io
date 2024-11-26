@@ -1,7 +1,7 @@
 {
   "id": "teaching/diversity-statement",
-  "title": "Diversity Statement",
-  "description": "Advancements in an interdisciplinary field such as materials science and engineering require collaboration across diverse cultures and disciplines. However, materials science remains lacking in diversity in both industry and academia with 26% and 8% of materials engineering positions in the US held by ethnic minorities and women respectively as of 2021 [1]. In academia there is a similar proportion with 40% of materials-science PhDs earned by ethnic minorities and that figure dropping to 3% for African American or Hispanic students [2]. There is a large opportunity to improve this diversity by forming more welcoming department cultures as well as removing additional challenges imposed on women and minority students.  I strive to address these challenges through my interactions with students and service to my engineering department. I believe that a welcoming environment where students are properly supported with easily accessible resources and opportunities available to them and are encouraged to succeed is critical to the wellbeing of students of all backgrounds.",
+  "title": "Commitment to Diversity",
+  "description": "For a more detailed and formal statement of diversity, equity, and inclusion, please reach out to me.",
   "source": "@site/docs/teaching/diversity-statement.md",
   "sourceDirName": "teaching",
   "slug": "/teaching/diversity-statement",
@@ -10,13 +10,13 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 3
   },
   "sidebar": "teaching",
   "previous": {
-    "title": "Statement of Teaching Philosophy",
+    "title": "Teaching Philosophy",
     "permalink": "/docs/teaching/teaching-philosophy"
   },
   "next": {
