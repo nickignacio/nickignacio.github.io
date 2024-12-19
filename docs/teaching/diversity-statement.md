@@ -3,7 +3,6 @@ sidebar_position: 3
 ---
 
 # Commitment to Diversity
-For a more detailed and formal statement of diversity, equity, and inclusion, please reach out to me.
 
 ### Importance of Diversity, Equity, and Inclusion
 - STEM fields, materials scence and engineering especially, are increasingly interdisciplinary and require collaboration diverse cultures and disciplines 

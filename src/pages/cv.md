@@ -1,4 +1,4 @@
-
+0
 ---
 
 _A printable version of my CV is available_ [here](pathname:///CV.pdf)
@@ -71,21 +71,32 @@ Publications
 
 `2024`
 
-**3.** Y. Lee, Y. Huang, Y.-F. Chang, S. J. Yang, **N. D. Ignacio**, S. Kutagulla, S. Mohan, S. Kim, J. Lee, D. Akinwande, S. Kim, Programmable Retention Characteristics in MoS2-Based Atmristors for Neuromorphic and Reservoir Computing Systems, _ACS Nano_ (2024) 
+**3.** Y. Jeon, D. Kim, C. Biswas, **N. D. Ignacio**, P. Carmichael, S. Feng, K Lai, D.-H. Kim, D. Akinwande, Enhanced Synaptic Memory Window and Linearity in Planar In2Se3 Ferroelectric Junctions Adv Mater (2024)
 
-**4.** J. Xie, Md. N. Patoary,Md. A. Rahman Laskar, **N. D. Ignacio**, X.Zhan, U. Celano, D. Akinwande, I. Sanchez Esqueda, [Quantum conductance in vertical hexagonal boron nitride memeristors with graphene-edge contancts](https://doi.org/10.1021/acs.nanolett.3c04057), _ACS Nano Lett 24, 8, 2473-2480_ (2024).
+**4.** Y. Lee, Y. Huang, Y.-F. Chang, S. J. Yang, **N. D. Ignacio**, S. Kutagulla, S. Mohan, S. Kim, J. Lee, D. Akinwande, S. Kim, Programmable Retention Characteristics in MoS2-Based Atmristors for Neuromorphic and Reservoir Computing Systems, _ACS Nano_ (2024) 
+
+**5.** J. Xie, Md. N. Patoary,Md. A. Rahman Laskar, **N. D. Ignacio**, X.Zhan, U. Celano, D. Akinwande, I. Sanchez Esqueda, [Quantum conductance in vertical hexagonal boron nitride memeristors with graphene-edge contancts](https://doi.org/10.1021/acs.nanolett.3c04057), _ACS Nano Lett 24, 8, 2473-2480_ (2024).
 
 `2023`
 
-**5.** **N. D. Ignacio**, J. Fatheema, Y. Jeon, D. Akinwande, [Air-stable atomically encapsulated crystalline-crystalline phase transitions in In2Se3](https://doi.org/10.1002/aelm.202300457), _Adv Elec Matr 10, 1, 2300457_ (2023).
+**6.** **N. D. Ignacio**, J. Fatheema, Y. Jeon, D. Akinwande, [Air-stable atomically encapsulated crystalline-crystalline phase transitions in In2Se3](https://doi.org/10.1002/aelm.202300457), _Adv Elec Matr 10, 1, 2300457_ (2023).
 
-**6.** S. Mohan, D. Kireev, S. Kutagulla, **N. D. Ignacio**, Y. Gu, H. Celio, X. Zhan, D. Akinwande, K. Liechti, [Direct, Metal-free Growth and Dry Separation of Bilayer Graphene on Sapphire: Implications for Electronic Application](https://doi.org/10.1021/acsanm.3c03533), _ACS Appl Nano Mater 6, 20, 19018-19028_ (2023).
+**7.** S. Mohan, D. Kireev, S. Kutagulla, **N. D. Ignacio**, Y. Gu, H. Celio, X. Zhan, D. Akinwande, K. Liechti, [Direct, Metal-free Growth and Dry Separation of Bilayer Graphene on Sapphire: Implications for Electronic Application](https://doi.org/10.1021/acsanm.3c03533), _ACS Appl Nano Mater 6, 20, 19018-19028_ (2023).
 
-**7.** Y. Huang*, Y. Gu*, S. Mohan, A. Dolocan, **N. D. Ignacio**, S. Kutagulla, K. Matthews, A. Londono-Calderon, Y.-F. Chang, Y.-C. Chen, J. Warner, M.T. Pettes, J.C. Lee, D. Akinwande, [Relialbility Improvement and Effective Switching Layer Model of Thin-Film MoS2 Memristors](https://doi.org/10.1002/adfm.202214250), _Adv Func Mater_, 2214250 (2023).
+**8.** Y. Huang*, Y. Gu*, S. Mohan, A. Dolocan, **N. D. Ignacio**, S. Kutagulla, K. Matthews, A. Londono-Calderon, Y.-F. Chang, Y.-C. Chen, J. Warner, M.T. Pettes, J.C. Lee, D. Akinwande, [Relialbility Improvement and Effective Switching Layer Model of Thin-Film MoS2 Memristors](https://doi.org/10.1002/adfm.202214250), _Adv Func Mater_, 2214250 (2023).
 
 
 Conferences
 -----------
+### Talks
+
+`2024`  
+
+**Multi-step resistance switching by crystalline-crystalline phase changes in In2Se3**, Materials Research Society (MRS) Fall 2024 Meeting, _Boston, MA, USA_.
+
+**Defects and interfaces in atomristors: a study of a hexagonal boron nitride device**, Materials Research Society (MRS) Fall 2024 Meeting, _Boston, MA, USA_.
+
+
 ### Posters
 
 `2023`  
@@ -110,6 +121,10 @@ Teaching Experiences
 -----------
 
 ### Teaching Assistantships
+
+`2024` **Graduate Instructor**, _Department of Mechanical Engineering_, Austin, TX, USA
+
+*   Experiments in Materials Science and Engineering (MSE360M) Dr. Derek Davies
 
 `2023` **Graduate Teaching Assistant/Supplementary Instruction Leader**, _Department of Astronomy_, Austin, TX, USA
 

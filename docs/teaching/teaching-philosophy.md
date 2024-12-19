@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Teaching Philosophy 
 
-For a more detailed and formal statement of my teaching philosophy, please reach out to me.
-
 
 Teaching introductory science and engineering courses and mentoring students at MIT and the University of Texas at Austin has illustrated the importance of developing critical thinking for students to not only succeed in their field but also to understand the societal implications of their work. I have learned that to successfully do so, instructors must be able to apply their material to real world examples that are broadly accessible, improve their ability to effectively communicate, and provide a supporting and curious environment.
 Thus, the questions I ask myself when preparing for class are the following:
