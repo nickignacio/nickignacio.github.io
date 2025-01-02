@@ -2,7 +2,7 @@
   "type": "mdx",
   "permalink": "/cv",
   "source": "@site/src/pages/cv.md",
-  "description": "0",
+  "description": "A printable version of my CV is available here",
   "frontMatter": {},
   "unlisted": false
 }

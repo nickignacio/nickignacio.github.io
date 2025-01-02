@@ -1,6 +1,3 @@
-0
----
-
 _A printable version of my CV is available_ [here](pathname:///CV.pdf)
 
 ---
@@ -19,7 +16,7 @@ Education
 
 `2021-2025 (expected)` **Ph.D., Materials Science and Engineering** , _The University of Texas at Austin_, Austin, TX.
 \- Advisor: Prof. Deji Akinwande  
-\- Thesis: _Phase and Defect Engineering in 2D Materials Studied by STM_.
+\- Thesis: _Phase and Defect Engineering in 2D Material-Based Memory Devices by STM_.
 
 `2020` **Visiting Student through Materials Exchange Program** , _University of Oxford_, Oxford, UK.
 
@@ -39,6 +36,8 @@ Awards & Honors
 ---------------
 
 `2024`   
+**Professional Development Award**, _University of Texas at Austin_.
+
 **2024 Provost's Early Career Fellow**, _University of Texas at Austin, Office of the Executive Vice President and Provost_.
 
 `2023`   

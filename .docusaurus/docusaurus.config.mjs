@@ -81,7 +81,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2024, Nicholas D Ignacio",
+      "copyright": "Copyright © 2025, Nicholas D Ignacio",
       "links": []
     },
     "prism": {

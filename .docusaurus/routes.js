@@ -88,6 +88,11 @@ export default [
     exact: true
   },
   {
+    path: '/lists/',
+    component: ComponentCreator('/lists/', 'ff6'),
+    exact: true
+  },
+  {
     path: '/markdown-page/',
     component: ComponentCreator('/markdown-page/', '54d'),
     exact: true
