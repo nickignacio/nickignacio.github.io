@@ -9,7 +9,9 @@ Teaching introductory science and engineering courses and mentoring students at 
 Thus, the questions I ask myself when preparing for class are the following:
 1.	What is the bigger picture question towards which the students can apply this lesson?
 2.	How do I expect the students to communicate what they’ve learned?
-3.	Am I encouraging inclusivity where students feel safe to engage and ask questions?
-4.	Do students feel safe to engage and ask questions?
+3.  Will students be able to view topics from multiple perspectives?
+4.	Am I encouraging inclusivity where students feel safe to engage and ask questions?
+
+These four questions help me design teaching strategies and assessments, so my teaching philosophy carries over into the classroom.
 
 My teaching philosophy is based on the Universal Design for Learning framework with a focus on encouraging scientific curiousity and preparation for the real world. My teaching style is most directly influenced by Professors Jeff Grossman and Krishna Kumar who both emphasize an inquisitive and involved approach to learning. 
